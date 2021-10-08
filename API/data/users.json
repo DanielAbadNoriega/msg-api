@@ -1,0 +1,265 @@
+[
+    {
+        "name": "Daniel",
+        "lastname": "Abad",
+        "email": "example@example.com",
+        "phone": "600600600",
+        "address": "c/example",
+        "password": "12345678"
+    },
+    {
+    "name": "Dr. Silvia Rohan",
+    "lastname": "Sarah.Daniel69",
+    "email": "Earl.Hauck44@hotmail.com",
+    "address": "Smith Expressway",
+    "phone": "382-406-6519 x6810",
+    "website": "gina.net",
+    "company": {
+      "name": "Ryan - Schmidt",
+      "catchPhrase": "Front-line bi-directional pricing structure",
+      "bs": "unleash out-of-the-box e-services"
+    },
+    "avatar": "https://cdn.fakercloud.com/avatars/darylws_128.jpg",
+    "password": "894c8213-0fe8-45de-8892-790d012032c5"
+  },
+  {
+    "name": "Judy Botsford",
+    "lastname": "Elvie.Cartwright20",
+    "email": "Gustave_Hansen@hotmail.com",
+    "address": "Smith Expressway",
+    "phone": "928-379-1407 x0285",
+    "website": "renee.org",
+    "company": {
+      "name": "Zulauf Group",
+      "catchPhrase": "Secured actuating parallelism",
+      "bs": "orchestrate magnetic content"
+    },
+    "avatar": "https://cdn.fakercloud.com/avatars/teylorfeliz_128.jpg",
+    "password": "41b0dfc0-4f39-4d21-888c-446b1d9570ef"
+  },
+  {
+    "name": "Elisa Romaguera",
+    "lastname": "Gustave.Schuster",
+    "email": "Columbus29@yahoo.com",
+    "address": "Smith Expressway",
+    "phone": "(841) 278-0767",
+    "website": "victor.net",
+    "company": {
+      "name": "Krajcik, Kirlin and Roberts",
+      "catchPhrase": "Open-source regional matrix",
+      "bs": "reintermediate web-enabled blockchains"
+    },
+    "avatar": "https://cdn.fakercloud.com/avatars/ssiskind_128.jpg",
+    "password": "ed692eb6-5fa7-44bc-8c08-6b238dd9101b"
+  },
+  {
+    "name": "Neal McGlynn",
+    "lastname": "Francis_Hilpert",
+    "email": "Dortha.Wyman28@yahoo.com",
+    "address": "Smith Expressway",
+    "phone": "1-465-891-0856",
+    "website": "columbus.org",
+    "company": {
+      "name": "Hoeger - Wilderman",
+      "catchPhrase": "Persistent global concept",
+      "bs": "enhance back-end functionalities"
+    },
+    "avatar": "https://cdn.fakercloud.com/avatars/ricburton_128.jpg",
+    "password": "6f9cf855-552d-4ec8-89cf-df076c3bff8c"
+  },
+  {
+    "name": "Judy Grimes",
+    "lastname": "Imani.Cruickshank",
+    "email": "Rashawn_Ortiz@gmail.com",
+    "address": "Smith Expressway",
+    "phone": "1-413-612-9995",
+    "website": "marta.org",
+    "company": {
+      "name": "Nolan Group",
+      "catchPhrase": "Right-sized bottom-line secured line",
+      "bs": "monetize out-of-the-box synergies"
+    },
+    "avatar": "https://cdn.fakercloud.com/avatars/craigelimeliah_128.jpg",
+    "password": "74c3de89-3fb3-4bf2-a333-aadb1d7a963f"
+  },
+  {
+    "name": "Benjamin Fisher",
+    "lastname": "Maegan_Zulauf24",
+    "email": "Modesto_Durgan@yahoo.com",
+    "address": "Smith Expressway",
+    "phone": "713.497.9570 x20524",
+    "website": "raymond.biz",
+    "company": {
+      "name": "Smith, Schaefer and Bauch",
+      "catchPhrase": "Inverse global throughput",
+      "bs": "orchestrate extensible paradigms"
+    },
+    "avatar": "https://cdn.fakercloud.com/avatars/tgerken_128.jpg",
+    "password": "3bd75f65-3700-40b4-87e6-80ca08fd6401"
+  },
+  {
+    "name": "Julio Fay",
+    "lastname": "Alec_Kunde34",
+    "email": "Lucinda_Schultz@hotmail.com",
+    "address": "Smith Expressway",
+    "phone": "956-596-7450 x81557",
+    "website": "estel.com",
+    "company": {
+      "name": "Heller - Grimes",
+      "catchPhrase": "Versatile leading edge superstructure",
+      "bs": "reintermediate web-enabled metrics"
+    },
+    "avatar": "https://cdn.fakercloud.com/avatars/thierrykoblentz_128.jpg",
+    "password": "b528a52e-f45f-45f3-961d-b8a4c660859a"
+  },
+  {
+    "name": "Alyssa Wyman",
+    "lastname": "Angelita71",
+    "email": "Arnold39@yahoo.com",
+    "address": "Smith Expressway",
+    "phone": "1-396-954-0068 x18212",
+    "website": "erin.biz",
+    "company": {
+      "name": "Abshire - Gusikowski",
+      "catchPhrase": "Switchable user-facing function",
+      "bs": "disintermediate frictionless platforms"
+    },
+    "avatar": "https://cdn.fakercloud.com/avatars/megdraws_128.jpg",
+    "password": "b12b16fb-63dc-4579-9873-42968d0bf16e"
+  },
+  {
+    "name": "Miss Cary Abbott",
+    "lastname": "Catherine58",
+    "email": "Reymundo_Leannon30@gmail.com",
+    "address": "Smith Expressway",
+    "phone": "438-426-0164",
+    "website": "garett.name",
+    "company": {
+      "name": "Ledner, Homenick and Stracke",
+      "catchPhrase": "Reactive fault-tolerant monitoring",
+      "bs": "enable revolutionary supply-chains"
+    },
+    "avatar": "https://cdn.fakercloud.com/avatars/j04ntoh_128.jpg",
+    "password": "a99589e0-6d1e-499d-9b82-9a9052fac937"
+  },
+  {
+    "name": "Patricia Brown",
+    "lastname": "Summer36",
+    "email": "Noel37@gmail.com",
+    "address": "Smith Expressway",
+    "phone": "658-790-5545 x6743",
+    "website": "anastacio.name",
+    "company": {
+      "name": "Ziemann LLC",
+      "catchPhrase": "Exclusive disintermediate knowledge base",
+      "bs": "mesh impactful relationships"
+    },
+    "avatar": "https://cdn.fakercloud.com/avatars/andrewofficer_128.jpg",
+    "password": "820eaaa5-bb66-42b6-b863-039980fedf7b"
+  },
+  {
+    "name": "Blake Hoppe",
+    "lastname": "Jared_Bogisich",
+    "email": "Andreanne_VonRueden78@gmail.com",
+    "address": "Smith Expressway",
+    "phone": "1-981-274-5078",
+    "website": "adelle.com",
+    "company": {
+      "name": "Labadie, Auer and Larson",
+      "catchPhrase": "Polarised 6th generation open architecture",
+      "bs": "reinvent innovative models"
+    },
+    "avatar": "https://cdn.fakercloud.com/avatars/umurgdk_128.jpg",
+    "password": "d0cc5621-c9ee-45e6-9550-fe79df2d92a8"
+  },
+  {
+    "name": "Allan Boyle",
+    "lastname": "Jabari39",
+    "email": "Turner.Klocko@yahoo.com",
+    "address": "Smith Expressway",
+    "phone": "(473) 402-7395",
+    "website": "leilani.biz",
+    "company": {
+      "name": "Schmidt LLC",
+      "catchPhrase": "Pre-emptive optimizing framework",
+      "bs": "matrix ubiquitous deliverables"
+    },
+    "avatar": "https://cdn.fakercloud.com/avatars/LucasPerdidao_128.jpg",
+    "password": "79b20e0b-c14a-43e2-9018-d684ea08adfc"
+  },
+  {
+    "name": "Jamie Pfannerstill",
+    "lastname": "Harold_Cartwright35",
+    "email": "Queenie_Emard@yahoo.com",
+    "address": "Smith Expressway",
+    "phone": "554-753-8473 x92330",
+    "website": "christina.net",
+    "company": {
+      "name": "Murray - Hegmann",
+      "catchPhrase": "Persistent bandwidth-monitored budgetary management",
+      "bs": "disintermediate sexy e-commerce"
+    },
+    "avatar": "https://cdn.fakercloud.com/avatars/cherif_b_128.jpg",
+    "password": "057c749a-10cd-49d8-a571-0c84a3a99f4f"
+  },
+  {
+    "name": "Leticia Langworth",
+    "lastname": "Geoffrey.Beier",
+    "email": "Willy39@gmail.com",
+    "address": "Smith Expressway",
+    "phone": "(422) 271-3952",
+    "website": "betty.biz",
+    "company": {
+      "name": "Hettinger, Reichert and Koelpin",
+      "catchPhrase": "Optional exuding extranet",
+      "bs": "leverage bricks-and-clicks initiatives"
+    },
+    "avatar": "https://cdn.fakercloud.com/avatars/necodymiconer_128.jpg",
+    "password": "df728044-a851-4bfc-92b2-171142679a7f"
+  },
+  {
+    "name": "Joanna Murphy",
+    "lastname": "Rosalind37",
+    "email": "Kaley.Bartell@gmail.com",
+    "address": "Smith Expressway",
+    "phone": "429.796.1060 x26786",
+    "website": "claude.info",
+    "company": {
+      "name": "Koss - Mayert",
+      "catchPhrase": "Polarised zero tolerance internet solution",
+      "bs": "engage collaborative methodologies"
+    },
+    "avatar": "https://cdn.fakercloud.com/avatars/lebronjennan_128.jpg",
+    "password": "06a4f3e7-7491-49f9-8cb0-401368887f88"
+  },
+  {
+    "name": "Delbert Monahan",
+    "lastname": "Ines_Kessler",
+    "email": "Talon.Nader@yahoo.com",
+    "address": "Smith Expressway",
+    "phone": "(540) 222-9681 x558",
+    "website": "jerad.name",
+    "company": {
+      "name": "Walker - Erdman",
+      "catchPhrase": "Front-line responsive synergy",
+      "bs": "incubate one-to-one architectures"
+    },
+    "avatar": "https://cdn.fakercloud.com/avatars/gregrwilkinson_128.jpg",
+    "password": "ccd338df-0805-400c-931a-2ccf033b7f93"
+  },
+  {
+    "name": "Ramona Funk",
+    "lastname": "Arno.Jacobs87",
+    "email": "Cecelia.Bosco@yahoo.com",
+    "address": "Smith Expressway",
+    "phone": "886.447.9088",
+    "website": "camryn.org",
+    "company": {
+      "name": "Harber - Ryan",
+      "catchPhrase": "Fundamental encompassing matrix",
+      "bs": "evolve innovative markets"
+    },
+    "avatar": "https://cdn.fakercloud.com/avatars/chaensel_128.jpg",
+    "password": "cf14a150-8e80-47dc-86e9-a87a86c45fda"
+  }
+]
