@@ -3,6 +3,8 @@ const mongoose = require ('mongoose');
 const express = require ('express');
 const app = express();
 
+require('./config/db.config');
+
 /* Middlewares */
 
 app.use(express.json());
