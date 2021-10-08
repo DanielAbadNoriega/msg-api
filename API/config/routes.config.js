@@ -25,4 +25,9 @@ router.get('/shops/:id', shops.detail)
 router.get('/recipes', recipes.list)
 router.get('/recipes/:id', recipes.detail)
 
+/* Profesionals */
+
+router.get('/profesionals', profesionals.list)
+router.get('/profesionals/:id', profesionals.detail)
+
 module.exports = router;
