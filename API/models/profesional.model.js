@@ -25,15 +25,31 @@ const profesionalSchema = new Schema(
     },
     avatar: {
       type: String,
-      default: "https://cdn.icon-icons.com/icons2/1378/PNG/128/avatardefault_92824.png",
+      default:
+        "https://cdn.icon-icons.com/icons2/1378/PNG/128/avatardefault_92824.png",
       required: "Image is required",
     },
     address: {
-      type: {String},
+      type: {
+        street: { type: String },
+        suite: { type: String },
+        city: { type: String },
+        zipcode: { type: String },
+      },
       required: "Address is required",
     },
     company: {
-      type: {String},
+      type: {
+        name: {
+          type: String,
+        },
+        catchPhrase: {
+          type: String,
+        },
+        bs: {
+          type: String,
+        },
+      },
       required: "Category is required",
     },
     password: {
@@ -44,11 +60,14 @@ const profesionalSchema = new Schema(
   },
   {
     timestamps: true,
-    transform: (doc, ret) => {
-      ret.id = doc._id;
-      delete ret._id;
-      delete ret.__v;
-      return ret;
+    toJSON: {
+      virtuals: true,
+      transform: (doc, ret) => {
+        ret.id = doc._id;
+        delete ret._id;
+        delete ret.__v;
+        return ret;
+      },
     },
   }
 );

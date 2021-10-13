@@ -1,16 +1,14 @@
 const createError = require("http-errors");
 const Product = require("../models/product.model");
 
-function notFound (el) {
-  if (!el) {
-    createError(404, "Products not found");
-  } else {
-     return res.json(el);
-  }
-}
-
 module.exports.list = (req, res, next) => {
-  Product.find()
+  const { name, tags } = req.query;
+  let criterial = {};
+
+  if(name) criterial.name = new RegExp(name, 'i')
+  if(tags) criterial.tag = new RegExp(tags, 'i')
+
+  Product.find(criterial)
     .then((products) => {
       if (!products) {
         createError(404, "Products not found");

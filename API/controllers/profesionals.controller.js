@@ -2,7 +2,13 @@ const createError = require('http-errors');
 const Profesional = require('../models/profesional.model');
 
 module.exports.list = (req, res, next) => {
-    Profesional.find()
+    const  { name, company} = req.query;
+    let criterial = {}
+
+    if(name) criterial.name = new RegExp(name, 'i')
+    if(company) criterial.company = new RegExp(company, 'i')
+
+    Profesional.find(criterial)
         .then(profesionals => {
             if(!profesionals) {
                 createError(404, 'Profesionals not found')

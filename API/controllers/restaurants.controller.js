@@ -2,7 +2,12 @@ const createError = require('http-errors');
 const Restaurant = require('../models/restaurant.model')
 
 module.exports.list = (req, res, next) => {
-    Restaurant.find()
+    const { title } = req.query;
+    let criterial = {}
+
+    if(title) criterial.title = RegExp(title, 'i')
+
+    Restaurant.find(criterial)
         .then(restaurants => {
             if(!restaurants) {
                 createError(404, 'Restaurants not found')

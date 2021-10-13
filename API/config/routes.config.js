@@ -4,6 +4,8 @@ const products = require("../controllers/products.controller")
 const restaurants = require("../controllers/restaurants.controller")
 const shops = require("../controllers/shops.controller")
 const recipes = require("../controllers/recipes.controller")
+const profesionals = require("../controllers/profesionals.controller")
+const users = require("../controllers/users.controller")
 
 /* Products */
 
@@ -29,5 +31,11 @@ router.get('/recipes/:id', recipes.detail)
 
 router.get('/profesionals', profesionals.list)
 router.get('/profesionals/:id', profesionals.detail)
+
+/* Users */
+
+router.post('/users', users.create)
+router.delete('/users/:id', users.delete)
+router.put('/users/:id', users.edit)
 
 module.exports = router;

@@ -2,7 +2,11 @@ const createError = require('http-errors');
 const Recipe = require('../models/recipe.model');
 
 module.exports.list = (req, res, next) => {
-    Recipe.find()
+    const { name } = req.query;
+    let criterial = {}
+    if(name) criterial.name = RegExp(name, 'i')
+
+    Recipe.find(criterial)
         .then(recipes => {
             if(!recipes) {
                 createError(404, 'Recipes not found')
