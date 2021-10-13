@@ -1,6 +1,18 @@
 const createError = require('http-errors');
 const Shop = require('../models/shop.model');
 
+module.exports.create = (req, res, next) => {
+    Shop.create(req.body)
+        .then(shop => {
+            if(!shop) {
+                createError(404, 'Shop can not create.')
+            } else {
+                res.status(201).json(shop)
+            }
+        })
+        .catch(error => next(error))
+}
+
 module.exports.list = (req, res, next) => {
     const { title } = req.query;
     let criterial = {}
@@ -19,23 +31,21 @@ module.exports.list = (req, res, next) => {
 }
 
 module.exports.detail = (req, res, next) => {
-    Shop.findById(req.params.id)
-        .then(shop => {
-            if(!shop) {
-                createError(404, 'Shop not found')
-            } else {
-                res.json(shop)
-            }
-        })
+    res.json(req.shop)
 }
 
+module.exports.edit = (req, res, next) => {
+    const data = ({ title, description, image } = req.body);
+    const shop = req.shop;
+    Object.assign(shop, data);
+
+    shop.save()
+        .then(shop => res.json(shop))
+        .catch(error => next(error))
+  };
+
 module.exports.delete = (req, res, next) => {
-    Shop.findByIdAndDelete(req.params.id)
-        .then(shop => {
-            if(!shop) {
-                createError(404, 'Shop not found')
-            } else {
-                res.status(204).send()
-            }
-        })
+    Shop.deleteOne({ _id: req.shop.id })
+        .then(() => res.status(204).send())
+        .catch(error => next(error))
 }

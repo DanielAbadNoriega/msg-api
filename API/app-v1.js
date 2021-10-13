@@ -1,4 +1,5 @@
 const createError = require ('http-errors');
+const logger = require('morgan')
 const mongoose = require ('mongoose');
 const express = require ('express');
 const app = express();
@@ -7,6 +8,7 @@ require('./config/db.config');
 
 /* Middlewares */
 
+app.use(logger('dev'));
 app.use(express.json());
 
 /** Routes */
