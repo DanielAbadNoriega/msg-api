@@ -10,6 +10,10 @@ const shopSchema = new Schema ({
         type: String,
         required: 'Description is required'
     },
+    address: {
+        type: String,
+        required: true
+    },
     image: {
         type: String,
         required: 'Image is required'
