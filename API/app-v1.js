@@ -1,14 +1,14 @@
 require("dotenv").config();
 
 const createError = require("http-errors");
-const logger = require("morgan");
-const mongoose = require("mongoose");
-const cors = require("./config/cors.config");
 const express = require("express");
+const mongoose = require("mongoose");
+const logger = require("morgan");
 const passport = require("passport");
 
 require("./config/passport.config");
 require("./config/db.config");
+const cors = require("./config/cors.config");
 const session = require("express-session");
 
 const app = express();
@@ -27,8 +27,6 @@ const routes = require("./config/routes.config");
 app.use("/api/v1", routes);
 
 /** Error Handling */
-
-app.use((req, res, next) => next(createError(404, "Route not found")));
 
 app.use((error, req, res, next) => {
   if (error instanceof mongoose.Error.ValidationError) {
@@ -52,7 +50,7 @@ app.use((error, req, res, next) => {
   data.message = error.message;
   if (error.errors) {
     data.errors = Object.keys(error.errors).reduce((errors, key) => {
-      errors[key] = error.errors[key].message;
+      errors[key] = error.errors[key].message || error.errors[key];
       return errors;
     }, {});
   }
