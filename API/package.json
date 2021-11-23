@@ -21,7 +21,7 @@
   "homepage": "https://github.com/DanielAbadNoriega/msg-api#readme",
   "dependencies": {
     "axios": "^0.21.4",
-    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
     "cloudinary": "^1.26.0",
     "connect-mongo": "~3.2.0",
     "cors": "^2.8.5",
@@ -39,5 +39,8 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
+  },
+  "engines": {
+    "node": "16.4.1"
   }
 }

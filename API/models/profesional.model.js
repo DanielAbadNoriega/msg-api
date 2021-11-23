@@ -1,6 +1,7 @@
 const mongoose = require("mongoose");
+const bcrypt = require('bcryptjs')
 const Schema = mongoose.Schema;
-const bcrypt = require("bcrypt");
+
 const PASSWORD_PATTERN = /^.{8,}$/;
 const EMAIL_PATTERN = /^\S+@\S+\.\S+$/;
 

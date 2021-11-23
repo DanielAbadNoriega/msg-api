@@ -1,6 +1,7 @@
 const mongoose = require('mongoose');
+const bcrypt = require('bcryptjs')
 const Schema = mongoose.Schema;
-const bcrypt = require('bcrypt');
+
 const PASSWORD_PATTERN = /^.{8,}$/;
 const EMAIL_PATTERN = /^\S+@\S+\.\S+$/;
 
@@ -64,6 +65,7 @@ userSchema.pre('save', function (next) {
 
 userSchema.methods.checkPassword = function (passwordToCheck) {
     return bcrypt.compare(passwordToCheck, this.password);
+    
 };
 
 const User = mongoose.model('User', userSchema);
