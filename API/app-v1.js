@@ -25,9 +25,11 @@ app.use(express.json());
 /** Routes */
 const routes = require("./config/routes.config");
 app.use("/api/v1", routes);
-
+app.use("/static",express.static("index"))
 /** Error Handling */
-
+app.use("/*",function(req,res){
+ res.sendFile("index/index.html");
+});
 app.use((error, req, res, next) => {
   if (error instanceof mongoose.Error.ValidationError) {
     error = createError(400, error);
