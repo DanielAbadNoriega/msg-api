@@ -22,14 +22,14 @@ app.use(passport.initialize());
 app.use(passport.session());
 app.use(express.json());
 
+console.log("dirname->",__dirname);
+/* SERVE FILES */
+app.use('/', express.static(__dirname + '/index'));
+
+/**/
 /** Routes */
 const routes = require("./config/routes.config");
 app.use("/api/v1", routes);
-app.use("/static",express.static("index"))
-/** Error Handling */
-app.use("/*",function(req,res){
- res.sendFile("index/index.html");
-});
 app.use((error, req, res, next) => {
   if (error instanceof mongoose.Error.ValidationError) {
     error = createError(400, error);
@@ -58,6 +58,8 @@ app.use((error, req, res, next) => {
   }
   res.status(error.status).json(data);
 });
-
+app.use('*', function(req, res) {
+  res.sendFile(__dirname + '/index/index.html');
+});
 const port = process.env.PORT || 3001;
 app.listen(port, () => console.info(`Application running at port ${port}`));
