@@ -1,0 +1,440 @@
+[
+  {
+    "title": "McDonald's®",
+    "address": "McDonald's, Plaça dels Països Catalans, Barcelona, Spain",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/hy6tjukmyuwkwnx4yx75",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "La Desayunería",
+    "address": "Carrer del Comte d'Urgell, 260, Barcelona, Spain",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/z4gozktt0un7tqglzuyh",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Green & Berry",
+    "address": "Carrer d'Enric Granados, 153, 08008 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/fkcf4mvixveloabbiv7d",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Pans & Company",
+    "address": "Carrer de Numància, 1, 08029 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/xdlh1mqpttlfznbaslqx",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Doña Jacinta",
+    "address": "Av. de Sarrià, 35, 08029 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/h8xykqgpzb9pp3zxifcj",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Papa John's",
+    "address": "Papa Johns, Gran Via de les Corts Catalanes, Barcelona, Spain",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/wkaccrxqambqwxqgfvvp",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Subway",
+    "address": "Gran Via de les Corts Catalanes, 373, 385, 08015 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/e7omn0luhugl75qdzq19",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Can Pollastre",
+    "address": "Carrer de Villarroel, 136, 08036 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/af2wa1ksq6tipl5miti7",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Secrets By Farga",
+    "address": "Carrer de Beethoven, 11, 08021 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/c0kl98sm14o2bzljta04",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Enrique Tomás",
+    "address": "Estación de Barcelona Sants, Local 14103, Plaza de los Paises Catalanes, 1-7, 08014 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/dxjks3tlzk4a3zuy5lde",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "El Chonero",
+    "address": "Carrer Progrés, 114, 08904 L'Hospitalet de Llobregat, Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/ds76of6jwpjszhhhgrej",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "TGB",
+    "address": "Plaça del Centre, 15, 08014 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/nswcyagsr8fvqphftfok",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Europa Café",
+    "address": "Avinguda Diagonal, 469, 08036 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/nyehvdsvvmygpv8k6l1g",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Böl",
+    "address": "Carrer d'Enric Granados, 44, 08008 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/gm5knnelfimereg6qms0",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Yoüme Sushi",
+    "address": "Carrer d'Arizala, 18, 08028 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/kn3xpieghzt4ryc16gvi",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Central Café",
+    "address": "Carrer del Dr. Fleming, 19, 08017 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/feywuego4zdvlalwtp8j",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Oakberry Acaí Bowls",
+    "address": "Plaça del Sol, 15, 08012 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/iuq6gybaevore9wmii6e",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Hard Rock Cafe",
+    "address": "Plaça de Catalunya, 21, 08002 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/vc1zjzq6ivltv6uhvaxl",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Juicy Avenue",
+    "address": "Av. de Sarrià, 21, 08029 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/nsq7epkhfm8azwcypiz3",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Metropolitan Gourmet Burgers",
+    "address": "Av. del Paraŀlel, 91, 08015 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/baog08aco9qbdm5auui1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Sushi Day",
+    "address": "Carrer del Comte Borrell, 161, 08015 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/xvn7hrhbjtxav9syptxv",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "KFC",
+    "address": "Carrer de Sants, 38, 08028 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/ksqjoak9jqmdbxy2whh1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "M2 Gluten Free",
+    "address": "Avinguda Diagonal, 505, 08029 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/hjpvvfdvnuxrahuc5bdk",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": " La milanesa bcn",
+    "address": "Gran Via de les Corts Catalanes, 298, 08004 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/jaiil5uzhzu5zvsr7gks",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Ramen",
+    "address": "C. del Consell de Cent, 47, 08014 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/ojlhro7raqfjunnfszhs",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Rostisseria Eli",
+    "address": "Carrer Mare de Déu dels Desemparats, 76, 08903 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/aktlg1t39kntlno6dect",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "O’Rincondegalicia",
+    "address": "Avinguda del Masnou, 74, 08905 L'Hospitalet de Llobregat, Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/vdpa64s1q9oxut7c5r3s",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Japon Market",
+    "address": "Carrer de Muntaner, 326, 08021 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/jexme8zausb1jykswizj",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Pizzería Sants",
+    "address": "Carrer de Galileu, 1, 08028 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/wuafwxntnv8hhcq9sfka",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Los Pollos 2",
+    "address": "Avinguda del Metro, 11, L'Hospitalet de Llobregat, Spain",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/lvlfavxxy3et0enzgffo",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "La Conca Vegana",
+    "address": "C/ dels Madrazo, 112, 08021 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/gz4how6nwkrnnr6zro3w",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Bagel Brothers",
+    "address": "Pl. d'Urquinaona, 4, 08010 Barcelona, Spain",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/l1lkzz0n2svxlevnmsho",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Eixampeling Brunch Café & Bar",
+    "address": "Carrer de la Diputació, 158, 08015 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/guwhappsi7lhvexk6vk0",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Llegums Roca",
+    "address": "Avinguda Diagonal, 557, 08029 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/jwzapiosq2re6nxkfas0",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Tío Bigotes",
+    "address": "Carrer Pareto, 5, 08902 L'Hospitalet de Llobregat, Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/f80xkv7b8rmoqq8jus3p",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Pizzas Saludables",
+    "address": "Carrer de Galileu, 1, 08028 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/ufzoirsyszavaejevg2y",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Els Llegums",
+    "address": "C/ d'Entença, 116, 08015 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/ddbtv47xhia0kvaavj0u",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "The Sunday Brunch.",
+    "address": "Gran Via de les Corts Catalanes, 300, 08004 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/nc3esuchxse9wwtp6d5w",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Waffle Barcelona",
+    "address": "Gran Via de les Corts Catalanes, 300, 08004 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/mtdveiaxhkh0jbth9nhn",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Sopa De Ramen",
+    "address": "Carrer d'Olzinelles, 2, 08014 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/gxey6jxquzadymch3y0g",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Ambi's Tapas & Bar",
+    "address": "Carrer de Nicaragua, 90, 08029 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/gzluv3edux1lsu5vtdjf",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Empanadas Las Muns",
+    "address": "Carrer d'Europa, 26, LOCAL 2 - 08028 Barcelona, Spain",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/ixjdtpzeb4ddbhrkrgjm",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Bagels & Bagels",
+    "address": "Gran Via de les Corts Catalanes, 298, 08004 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/e9cgf8redheu9mtnqcx3",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Petit Ciurana",
+    "address": "Carrer dels Comtes de Bell-Lloc, 189, 08014 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/yuch7z3katmwmslhinv9",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Restaurante Ciurana",
+    "address": "Carrer de Can Bruixa, 41, 08014 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/hbap3lhhrokbvs5ysrkc",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "BeBo Cold Press",
+    "address": "Plaça de Francesc Macià, 5, 08021 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/v8nsxuyis55qljo7xgkl",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Alfredo Restaurant",
+    "address": "Carrer d'Esteràs, 24, 08028 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/mqsznqqwcn3l32cdovls",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Restaurante Suarna",
+    "address": "Carrer de Llança, 1, 08015 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/syodwvsg08wuiujaa4m0",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Hangzhou",
+    "address": "Carrer de la Primavera, 45, 08905 L'Hospitalet de Llobregat, Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/ulsgseomgbztucstks15",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Kenji Sushi Pro",
+    "address": "Carrer de Sepúlveda, 3, 08015 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/ptrlhid1b4bugofccest",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Rostisseria Kankareo",
+    "address": "Riera d'Escuder, 24, 08028 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/fapps3ugr9reork1qoj3",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Compartir & Disfrutar",
+    "address": "C. de Villarroel, 163, 08036 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/zaezvev48gpzhpcx8kkb",
+    "description": 0
+  },
+  {
+    "title": "Café & Tapas",
+    "address": "Avinguda Diagonal, 567-569, Barcelona, Spain",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/tr2jddf7xr3xbeovdl26",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Turkis Kebab",
+    "address": "C/ d'Aragó, 38, 08015 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/hsjniurufegj2s0kd3uq",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Cuba de Janeiro",
+    "address": "Av. de Mistral, 33, 08015 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/nhij5qrohupz1lcfmims",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Mas Food Lovers",
+    "address": "Avinguda Diagonal, 557, 08029 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/zwwgza3pvoh130vp04hv",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "L'orenet",
+    "address": "C. de Rocafort, 249, 08029 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/r6p6pfgfthveuq4y4gqy",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Con Pan",
+    "address": "Gran Via de Carles III, 47, 08028 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/dks4vut4jwjbzctjqdlu",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "EC Brunch",
+    "address": "Avinguda Diagonal, 469, 08036 Barcelona, Spain",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/ixktllqsdfpejsqkr1s7",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "La Distributrice - Real and Healthy Food",
+    "address": "Carrer del Comte d'Urgell, 130, 08011 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/umanjdn3wsmim5iqbfqb",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Yoursushi & Ramen",
+    "address": "Av. de Josep Tarradellas, 157, 08029 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/a4uaqvnuw0dnvt2kv2zx",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Akelarre",
+    "address": "Carrer de Déu i Mata, 104, 08029 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/zxne78uphhhviowwcegw",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Bar El Barrio",
+    "address": "Carrer de Rafael Campalans, 22, 08903 L'Hospitalet de Llobregat, Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/lrltxjvsfcjagz4bwfpo",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Pizzería Sants",
+    "address": "Carrer de Sants, 135, 08028 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/v1oxugeyhwihzeebn8po",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Deseo Pizza",
+    "address": "Carrer dels Comtes de Bell-Lloc, 188, 08014 Barcelona, Spain",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/cbqgzjkfwb6pciv637xq",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Restaurant Tamara",
+    "address": "Carrer de Muntaner, 178, 08036 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/n6qjambxz91qukupdmwj",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Croqueta y Presumida",
+    "address": "Carrer de Viladomat, 59, 08015 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/g7xveex6wchbzpzannzh",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Pokes Pro",
+    "address": "Carrer de Sepúlveda, 3, 08015 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/jjkifkj76iw63va4yyzg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "OMA Bistró",
+    "address": "Carrer del Consell de Cent, 227, 08011 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/r7yhlxfzvk0y8sthu0sy",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "FISHHH!",
+    "address": "Centro Comercial L'Illa Diagonal, Avinguda Diagonal, Local 57, 557, 08029 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/w1c27tjrznolev01icxy",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "La Buena Pizza",
+    "address": "Carrer de Súria, 8, 08014 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/b9dblm1e7wlmxecgeobn",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "Porta La Pasta",
+    "address": "Carrer del Regent Mendieta, 7, 08028 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/zamta84wke1ydsjusbod",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  },
+  {
+    "title": "365 Obrador",
+    "address": "Carrer de Rosés, 58, 08028 Barcelona, España",
+    "image": "https://res.cloudinary.com/glovoapp/w_700,h_360,c_fill,f_auto,q_auto/Stores/npq4uvzg0cdolb36hfaw",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean id feugiat nisl. Ut ac iaculis massa. Praesent sit amet ligula venenatis, mattis dolor nec, laoreet lectus. Aenean nec iaculis purus. Curabitur lacus nunc, placerat quis ullamcorper eget, commodo nec erat."
+  }
+]

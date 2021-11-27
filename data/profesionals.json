@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Ivan Leannon",
+    "username": "Ivy.Stoltenberg70",
+    "email": "Montana55@hotmail.com",
+    "address": {
+      "street": "Jose Villages",
+      "suite": "Apt. 716",
+      "city": "Kyleighton",
+      "zipcode": "40978-0919",
+      "geo": {
+        "lat": "-12.8839",
+        "lng": "-169.9850"
+      }
+    },
+    "phone": "393.881.6216 x64607",
+    "website": "edward.name",
+    "company": {
+      "name": "Bayer, Weimann and Goyette",
+      "catchPhrase": "Ameliorated encompassing portal",
+      "bs": "reinvent 24/7 models"
+    },
+    "avatar": "https://cdn.fakercloud.com/avatars/souperphly_128.jpg",
+    "password": "49813418-40f4-4e09-a205-a8044c53a08c"
+  },
+  {
+    "name": "Barbara Barton",
+    "username": "Griffin94",
+    "email": "Franco.Lockman@yahoo.com",
+    "address": {
+      "street": "Doyle Path",
+      "suite": "Suite 219",
+      "city": "Woodland",
+      "zipcode": "15137",
+      "geo": {
+        "lat": "-12.6883",
+        "lng": "38.2692"
+      }
+    },
+    "phone": "876-400-6251 x4360",
+    "website": "carmela.biz",
+    "company": {
+      "name": "McLaughlin, Franecki and Bradtke",
+      "catchPhrase": "Right-sized bi-directional installation",
+      "bs": "reintermediate vertical mindshare"
+    },
+    "avatar": "https://cdn.fakercloud.com/avatars/okandungel_128.jpg",
+    "password": "9d082dd4-feaf-4bb4-9a5a-d3071a236c45"
+  },
+  {
+    "name": "Elias Tillman",
+    "username": "Lily.Davis",
+    "email": "Colton.Cremin@gmail.com",
+    "address": {
+      "street": "Armstrong Wells",
+      "suite": "Apt. 913",
+      "city": "East Willland",
+      "zipcode": "97536-7045",
+      "geo": {
+        "lat": "79.0820",
+        "lng": "-72.5621"
+      }
+    },
+    "phone": "1-721-926-3810",
+    "website": "dallin.com",
+    "company": {
+      "name": "Schowalter, Schmeler and Ondricka",
+      "catchPhrase": "Re-engineered foreground intranet",
+      "bs": "orchestrate back-end metrics"
+    },
+    "avatar": "https://cdn.fakercloud.com/avatars/geobikas_128.jpg",
+    "password": "fe15e90c-8bf9-4b1e-a558-3c6159fa587a"
+  },
+  {
+    "name": "Jessie Morissette",
+    "username": "Christy.Farrell",
+    "email": "Paris_Schinner88@yahoo.com",
+    "address": {
+      "street": "Ahmed Isle",
+      "suite": "Suite 298",
+      "city": "Emilianotown",
+      "zipcode": "62567",
+      "geo": {
+        "lat": "-47.1154",
+        "lng": "116.9233"
+      }
+    },
+    "phone": "1-716-748-4467 x953",
+    "website": "elvera.org",
+    "company": {
+      "name": "Ebert and Sons",
+      "catchPhrase": "Open-source 3rd generation application",
+      "bs": "morph viral applications"
+    },
+    "avatar": "https://cdn.fakercloud.com/avatars/iamgarth_128.jpg",
+    "password": "14a5bdec-4b47-4ba3-ba74-f90e0fa8f6cd"
+  },
+  {
+    "name": "Essie Runolfsdottir",
+    "username": "Uriah86",
+    "email": "Paris_Schinner89@yahoo.com",
+    "address": {
+      "street": "Krajcik Ridge",
+      "suite": "Apt. 557",
+      "city": "Cutler Bay",
+      "zipcode": "04407",
+      "geo": {
+        "lat": "-29.9245",
+        "lng": "-42.1901"
+      }
+    },
+    "phone": "1-716-748-4467 x953",
+    "website": "geovanny.info",
+    "company": {
+      "name": "Rippin, Reinger and Kohler",
+      "catchPhrase": "Operative web-enabled policy",
+      "bs": "exploit impactful architectures"
+    },
+    "avatar": "https://cdn.fakercloud.com/avatars/supjoey_128.jpg",
+    "password": "5de64166-306c-4b66-bf67-b9c7035b41c3"
+  }
+]

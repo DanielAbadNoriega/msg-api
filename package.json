@@ -1,0 +1,46 @@
+{
+  "name": "msg-api",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app-v1.js",
+    "dev": "nodemon app-v1.js",
+    "seed": "node bin/seed.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielAbadNoriega/msg-api.git"
+  },
+  "keywords": [],
+  "author": "DanielAbadNoriega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielAbadNoriega/msg-api/issues"
+  },
+  "homepage": "https://github.com/DanielAbadNoriega/msg-api#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^1.26.0",
+    "connect-mongo": "~3.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "http-errors": "^1.8.0",
+    "mongoose": "^5.13.5",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "multer-storage-cloudinary": "^4.0.0",
+    "passport": "^0.4.1",
+    "passport-google-oauth": "^2.0.0",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "engines": {
+    "node": "16.4.1"
+  }
+}
