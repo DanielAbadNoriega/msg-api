@@ -118,5 +118,29 @@
     },
     "avatar": "https://cdn.fakercloud.com/avatars/supjoey_128.jpg",
     "password": "5de64166-306c-4b66-bf67-b9c7035b41c3"
+  },
+  {
+    "name": "Ivan Leannon",
+    "username": "Ivy.Stoltenberg70",
+    "email": "Montana55@hotmail.com",
+    "address": {
+      "street": "Jose Villages",
+      "suite": "Apt. 716",
+      "city": "Kyleighton",
+      "zipcode": "40978-0919",
+      "geo": {
+        "lat": "-12.8839",
+        "lng": "-169.9850"
+      }
+    },
+    "phone": "393.881.6216 x64607",
+    "website": "edward.name",
+    "company": {
+      "name": "Bayer, Weimann and Goyette",
+      "catchPhrase": "Ameliorated encompassing portal",
+      "bs": "reinvent 24/7 models"
+    },
+    "avatar": "https://media.proprofs.com/images/QM/user_images/2503852/New%20Project%20(30)(259).jpg",
+    "password": "49813418-40f4-4e09-a205-a8044c53a08c"
   }
 ]
